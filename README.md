@@ -1,11 +1,11 @@
 # LogicPro-LuaScript
 
-This Lua scripts is for Automatic assigning USB MIDI controllers in Logic Pro
+This Lua script is for Automatic assigning USB MIDI controllers in Logic Pro
 
 
 ## How to use
 
-Copy the contents of  `MIDI Device Scripts` directory to `/Applications/Logic Pro X.app/Contents/Frameworks/MACore.framework/Versions/A/Resources/MIDI Device Scripts/` .
+Copy the contents of  `MIDI Device Scripts` directory to `/Library/Audio/MIDI Device Scripts/` .
 
 [Logic Pro User guide](https://support.apple.com/en-mn/guide/logicpro/ctlsbfee6d57/mac)
 
